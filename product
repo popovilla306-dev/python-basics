@@ -23,4 +23,4 @@ if product in prices and quantity > 0 and quantity <= MAX_QUANTITY:
 else:
      print("Помилка")
      exit()
-average_total=total/quantity
+
